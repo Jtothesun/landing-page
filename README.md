@@ -1,4 +1,2 @@
 # landing-page
-testing out CSS
-css file updated
-ssfs
+testing out CSS skills
